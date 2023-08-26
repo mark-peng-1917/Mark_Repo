@@ -1,4 +1,4 @@
-# what are the driver for used card
+# What are the drivers for used car?
 
 The goal for this analysis is to understand the driver of the used car in the market. The data capture US used car trading price as well as the feature and ocndition of the vehicle
 
