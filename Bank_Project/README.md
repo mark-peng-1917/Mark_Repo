@@ -1,6 +1,6 @@
-# What are the drivers for used car?
+# What are the drivers for Bank client term deposit subscription
 
-The goal for this analysis is to understand the driver of the used car in the market. The data capture US used car trading price as well as the feature and ocndition of the vehicle
+The goal for this analysis is to understand the drivers of term deposit subscription for bank client
 
 
 # Getting Started
